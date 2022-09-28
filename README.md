@@ -1,5 +1,6 @@
 # Slixon DEX
-WIP - Work In Progress, Not Production Ready
+
+⚠️WIP - Work In Progress, Not Production Ready!
 
 ## Slixon Exchange - Setheum's AMM DEX (Decentralized Exchange) Protocol
 
