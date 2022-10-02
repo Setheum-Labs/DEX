@@ -1,3 +1,5 @@
+بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم
+
 # Slixon DEX - Powering Ethical Web3 Exchange Solutions.
 
 ⚠️WIP - This is Work In Progress!
