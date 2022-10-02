@@ -1,8 +1,6 @@
-# Slixon DEX
-WIP - Work In Progress, Not Production Ready
+# Slixon DEX - Powering Ethical Web3 Exchange Solutions.
 
-## Slixon Exchange - Setheum's AMM Decentralized Exchange Protocol
+⚠️WIP - This is Work In Progress!
 
-Slixon is Setheum's Native Decentralized Exxchange inspired by the Uniswap V3 DEX Model.
+Slixon Exchange - Setheum's AMM DEX (Decentralized Exchange) Protocol is Setheum's Native Decentralized Exchange inspired by the Uniswap V3 DEX Model.
 
-The Slixon Protocol includes the DEX and its Liquidity Mining solution.
