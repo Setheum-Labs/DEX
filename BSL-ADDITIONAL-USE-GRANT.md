@@ -1,6 +1,8 @@
-## Business Source License 1.1 (BSL) Additional Use Grant - LiquidAir
+بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم
 
-This file is where Additional Use Grants are listed for LiquidAir Protocol Source Code.
+## Business Source License 1.1 (BSL) Additional Use Grant - Slixon
+
+This file is where Additional Use Grants are listed for Slixon Protocol Source Code.
 
 -----------------------------------------------------------------------------
 
